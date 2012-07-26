@@ -1,12 +1,19 @@
 # built application files
-*.apk
-*.ap_
+ServerAndroid.apk
+resource.ap_
 
 # files for the dex VM
-*.dex
+classes.dex
 
 # Java class files
-*.class
+ServerActivity.class
+CustomPhoneStateListener.class
+Help.class
+InCallActivity.class
+InComingCall.class
+ReceiveSMS.class
+SendSMS.class
+SmsReceiver.class
 
 # generated files
 bin/
