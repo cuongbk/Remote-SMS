@@ -93,7 +93,7 @@ public class ServerActivity extends Activity {
                        }
                     });
  
-                Intent intent = new Intent(ServerActivity.this,ReceiveData.class);
+                Intent intent = new Intent(ServerActivity.this,SendSMS.class);
                 startActivity(intent);
                   }
                 } else {
