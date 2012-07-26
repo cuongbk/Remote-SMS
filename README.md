@@ -14,14 +14,12 @@ Component
 ------------
 #### Android Applicaion on smart phone
    Server Android:
-* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `declare classes` 
-* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `declare Help class`
+* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `inform classes` 
+* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
 * [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
 * [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
 * [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
 * [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
-* [.rst](http://docutils.sourceforge.net/rst.html) -- `easy_install docutils`
-* [.asciidoc](http://www.methods.co.nz/asciidoc/) -- `brew install asciidoc`
-* [.pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- `Pod::Simple::HTML`
+* [bin](http://docutils.sourceforge.net/rst.html) -- `including installation file `
    
 #### C# Application on PC
