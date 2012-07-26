@@ -14,5 +14,6 @@ Component
 ------------
 #### Android Applicaion on smart phone
    Server Android:
+   *src
    
 #### C# Application on PC
