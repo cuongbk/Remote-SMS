@@ -5,3 +5,5 @@ Introduction
 ------------
 
 Our application is designed by Android RF-Lab group (HUST) to help an user don't need to touch his phone but can exchange data (like SMS) on his working PC using wireless LAN connection between them.
+
+Our application in smart phone receives a SMS and send it to a PC using TCP protocol with wireless LAN connection established. And the user also can reply a SMS or sends a new one in his working PC and his phone will send it automatically. Additionally, this application can also receive and notify user whose call to user can answer or not.
