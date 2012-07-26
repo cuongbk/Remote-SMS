@@ -13,7 +13,7 @@ Operating principle: Using TCP protocol (IP and port) based on TCP/IP to transmi
 Component
 ------------
 #### Android Applicaion on smart phone
-   Server Android:
+   AndroidServer:
 * [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `inform classes` 
 * [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
 * [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
