@@ -30,3 +30,4 @@ Component
 
 Instruction
 ------------------
+1. Install to convert a laptop into a device transmitting WIFI
