@@ -14,7 +14,7 @@ Component
 ------------
 #### Android Applicaion on smart phone
    Server Android:
-* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `gem install redcarpet` (https://github.com/tanoku/redcarpet)
+* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `declare classes` 
 * [.textile](http://www.textism.com/tools/textile/) -- `gem install RedCloth`
 * [.rdoc](http://rdoc.sourceforge.net/) -- `gem install rdoc -v 3.6.1`
 * [.org](http://orgmode.org/) -- `gem install org-ruby`
