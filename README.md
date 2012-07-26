@@ -13,4 +13,6 @@ Operating principle: Using TCP protocol (IP and port) based on TCP/IP to transmi
 Component
 ------------
 #### Android Applicaion on smart phone
+   Server Android:
+   
 #### C# Application on PC
