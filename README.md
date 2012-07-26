@@ -16,9 +16,9 @@ Component
    Server Android:
 * [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `declare classes` 
 * [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `declare Help class`
-* [drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
-* [layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
-* [values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
+* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
+* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
+* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
 * [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
 * [.rst](http://docutils.sourceforge.net/rst.html) -- `easy_install docutils`
 * [.asciidoc](http://www.methods.co.nz/asciidoc/) -- `brew install asciidoc`
