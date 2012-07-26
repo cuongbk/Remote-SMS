@@ -14,13 +14,13 @@ Component
 ------------
 #### Android Applicaion on smart phone
    AndroidServer:
-* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `inform classes` 
-* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
-* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
-* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
-* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
-* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
-* [bin](http://docutils.sourceforge.net/rst.html) -- `including installation file `
+* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidServer/AndroidManifest.xml) -- `inform classes` 
+* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidServer/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
+* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/drawable-hdpi) -- `contain file.png`
+* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/layout) -- `design interface`
+* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/values) -- `define the value of string or color`
+* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/src/cuong/server) -- `source code`
+* [bin]() -- `including installation file `
    
 #### C# Application on PC
    Client PC:
