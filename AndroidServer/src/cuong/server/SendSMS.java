@@ -35,7 +35,7 @@ public class ReceiveData extends Activity {
 		     	  char[] arr = str.toCharArray();
 		     	    k += arr[0];
 		     	    k += arr[1];
-		     	    // Because the length ò number phone have two digit
+		     	    // Because the length of number phone have two digit
 		     	    int m = Integer.parseInt(k);
 		     	    int n = arr.length;
 		     	    for(int i = 0; i < n; i++)
