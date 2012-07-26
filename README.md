@@ -1,6 +1,6 @@
 Remote SMS
 ==============
-Remote SMS is an application for data exchange between smart phone Android and PC inwireless LAN.
+Remote SMS is an application for data exchange between smart phone Android and PC in wireless LAN.
 Introduction
 ------------
 
