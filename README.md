@@ -23,3 +23,11 @@ Component
 * [bin](http://docutils.sourceforge.net/rst.html) -- `including installation file `
    
 #### C# Application on PC
+   Client PC:
+* [.resx and .Design.cs](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC) -- `interface` 
+* [.cs](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC) -- `source code`
+* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
+* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
+* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
+* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
+* [bin](http://docutils.sourceforge.net/rst.html) -- `including installation file `
