@@ -19,7 +19,7 @@ Component
 * [drawable](https://github.com/cuongbk/Remote-SMS/tree/master/res/drawable-hdpi) -- `contain file.png`
 * [layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
 * [values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
-* [src\cuong\server](http://www.mediawiki.org/wiki/Help:Formatting) -- `gem install wikicloth`
+* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
 * [.rst](http://docutils.sourceforge.net/rst.html) -- `easy_install docutils`
 * [.asciidoc](http://www.methods.co.nz/asciidoc/) -- `brew install asciidoc`
 * [.pod](http://search.cpan.org/dist/perl/pod/perlpod.pod) -- `Pod::Simple::HTML`
