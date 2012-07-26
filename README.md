@@ -16,7 +16,7 @@ Component
    Server Android:
 * [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.xml) -- `declare classes` 
 * [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidManifest.%EF%AC%81rst.xml) -- `declare Help class`
-* [.rdoc](http://rdoc.sourceforge.net/) -- `gem install rdoc -v 3.6.1`
+* [drawable](http://rdoc.sourceforge.net/) -- `gem install rdoc -v 3.6.1`
 * [.org](http://orgmode.org/) -- `gem install org-ruby`
 * [.creole](http://wikicreole.org/) -- `gem install creole`
 * [.mediawiki](http://www.mediawiki.org/wiki/Help:Formatting) -- `gem install wikicloth`
