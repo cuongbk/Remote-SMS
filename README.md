@@ -1,2 +1,2 @@
-Android-RF-Lab
+Remote SMS
 ==============
