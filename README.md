@@ -31,3 +31,8 @@ Component
 Instruction
 ------------------
 1. Install to convert a laptop into a device transmitting WIFI
+2. Install AndroidServer.apk to smartphone and Setup.exe to PC
+3. Run Remote SMS on Smartphone and Client PC on PC
+4. Enter the IP Address on Client PC by IP on Remote SMS's interface on Smartphone
+5. Enter the No. Phone(+84....) to No. Phone TextBox and Message to message's textbox
+6. Click or press Enter button to send SMS
