@@ -1,0 +1,9 @@
+G:\ASM\ClientPC\ClientPC\bin\Debug\ClientPC.exe
+G:\ASM\ClientPC\ClientPC\bin\Debug\ClientPC.pdb
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.csprojResolveAssemblyReference.cache
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.Properties.Resources.resources
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.csproj.GenerateResource.Cache
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.exe
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.pdb
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.frmClient.resources
+G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.frmCall.resources
