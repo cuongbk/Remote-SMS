@@ -32,7 +32,6 @@
         <activity android:name=".SendSMS" >
         </activity>
         <activity android:name=".ReceiverSMS"></activity>
-        <activity android:name=".ReceiveData"></activity>
         <activity android:name=".Help"
            android:label="@string/help_title"
            android:theme="@android:style/Theme.Dialog">
