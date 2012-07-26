@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity android:name=".Help"
+android:label="@string/help_title">
+</activity>
