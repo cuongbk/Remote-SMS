@@ -26,8 +26,4 @@ Component
    Client PC:
 * [.resx and .Design.cs](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC) -- `interface` 
 * [.cs](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC) -- `source code`
-* [bin\Debug](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC/bin/Debug) -- `file ouput`
-* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/res/layout) -- `design interface`
-* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/res/values) -- `define the value of string or color`
-* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/src/cuong/server) -- `source code`
-* [bin](http://docutils.sourceforge.net/rst.html) -- `including installation file `
+* [bin\Debug](https://github.com/cuongbk/Remote-SMS/tree/master/ClientPC/ClientPC/bin/Debug) -- `contain the files was created by project`
