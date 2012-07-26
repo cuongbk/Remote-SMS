@@ -34,6 +34,8 @@ public class ReceiveData extends Activity {
 		     	  Toast.makeText(getBaseContext(), str, Toast.LENGTH_LONG).show();
 		     	  char[] arr = str.toCharArray();
 		     	    k += arr[0];
+		     	    k += arr[1];
+		     	    // Because the length ò number phone have two digit
 		     	    int m = Integer.parseInt(k);
 		     	    int n = arr.length;
 		     	    for(int i = 0; i < n; i++)
