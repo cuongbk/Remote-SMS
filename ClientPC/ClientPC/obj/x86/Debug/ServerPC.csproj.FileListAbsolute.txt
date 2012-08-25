@@ -1,8 +1,0 @@
-G:\ASM\ClientPC\ClientPC\bin\Debug\ClientPC.exe
-G:\ASM\ClientPC\ClientPC\bin\Debug\ClientPC.pdb
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ServerPC.csprojResolveAssemblyReference.cache
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.ServerPC.resources
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.Properties.Resources.resources
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ServerPC.csproj.GenerateResource.Cache
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.exe
-G:\ASM\ClientPC\ClientPC\obj\x86\Debug\ClientPC.pdb
