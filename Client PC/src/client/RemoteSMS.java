@@ -33,7 +33,7 @@ public class RemoteSMS extends JFrame {
 	private JTextField txtIP;
 	private JTextField txtNo;
 	private JTextField txtSend;
-	private Socket socket = null;
+	static Socket socket = null;
 	JTextArea messages = new JTextArea();
 	JButton btnConnect = new JButton("Connect");
 
@@ -107,7 +107,7 @@ public class RemoteSMS extends JFrame {
 			        btnConnect.setText("Connected");	
 			        
 			        Thread thread = new Thread(new Receiver());
-			        thread.wait(5);
+			        thread.sleep(5);
 			        thread.start();
 			        
 			        
@@ -215,6 +215,7 @@ public class RemoteSMS extends JFrame {
 	public class Receiver implements Runnable
 	{
 
+		@SuppressWarnings("deprecation")
 		@Override
 		public void run() {
 			// TODO Auto-generated method stub
@@ -234,7 +235,7 @@ public class RemoteSMS extends JFrame {
 			            int n = arr.length;
 			            lg = k += arr[0];
 			            lg += arr[1];
-			            if (k.equals("N"))
+			            if (k.equals("0"))
 			              {
 			            	for (int i = 2; i < n; i++)
 		                    {
