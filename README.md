@@ -13,13 +13,13 @@ Operating principle: Using TCP protocol (IP and port) based on TCP/IP to transmi
 Component
 ------------
 #### Android Applicaion on smart phone
-   AndroidServer:
-* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidServer/AndroidManifest.xml) -- `inform classes` 
-* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/AndroidServer/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
-* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/drawable-hdpi) -- `contain file.png`
-* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/layout) -- `design interface`
-* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/res/values) -- `define the value of string or color`
-* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/AndroidServer/src/cuong/server) -- `source code`
+   ServerAndroid:
+* [Androidmainifest.xml](https://github.com/cuongbk/Remote-SMS/blob/master/ServerAndroid/AndroidManifest.xml) -- `inform classes` 
+* [AndroidManifest.ﬁrst.xml](https://github.com/cuongbk/Remote-SMS/blob/master/ServerAndroid/AndroidManifest.%EF%AC%81rst.xml) -- `inform Help class`
+* [res\drawable](https://github.com/cuongbk/Remote-SMS/tree/master/ServerAndroid/res/drawable-hdpi) -- `contain file.png`
+* [res\layout](https://github.com/cuongbk/Remote-SMS/tree/master/ServerAndroid/res/layout) -- `design interface`
+* [res\values](https://github.com/cuongbk/Remote-SMS/tree/master/ServerAndroid/res/values) -- `define the value of string or color`
+* [src\cuong\server](https://github.com/cuongbk/Remote-SMS/tree/master/ServerAndroid/src/cuong/server) -- `source code`
 * [bin]() -- `including installation file `
    
 #### Java Application on PC:
